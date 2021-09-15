@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T19:58:53.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="C_f0TDtuvLoxnOO6ehVu" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-15T19:59:43.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="KzZjkKtnpzMut8ccbpqy" version="15.2.7" type="github">
   <diagram id="gWrrV_A7F1Bqf5XZwddm" name="Page-1">
     <mxGraphModel dx="2414" dy="2036" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="MvT_TZrgJ0oY0gCxIoc4-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://resources.world.rugby/worldrugby/photo/2019/10/20/78a0f088-fc2f-47f0-bb83-8288d74a2d9d/1182222823.jpg;" parent="InI-g05zJiCpkcuKyI0X-1" vertex="1">
           <mxGeometry x="677.3399999999999" y="604" width="394.66" height="258.05" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Nvvx0D_wpQL8Hsl25T-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="InI-g05zJiCpkcuKyI0X-1">
+          <mxGeometry x="800" y="256" width="224" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
