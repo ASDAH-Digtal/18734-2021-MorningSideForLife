@@ -21,28 +21,35 @@ Date:
     Background-color: #9999FF;
 }
 
-.main{ /*DO NOT REMOVE*/
-    grid-area: main;
-}
 
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
+    text-align:left;
+    background-color:#9999FF;
 }
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
+    text-align: middle;
+    background-color: #9999FF
 }
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
+    text-align: middle;
+    Background-color: #9999FF;
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
+    text-align: left;
+    background-color: #9999FF;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
+    text-align:center;
+    background-color:#9999FF;
 }
 
 .references{
